@@ -32,3 +32,7 @@ If you prefer using Yarn package manager, you can follow the steps below to run 
 3. Run `yarn install` to install the dependencies.
 4. Run `yarn start` to start the development server.
 5. Open your web browser and go to `http://localhost:
+
+## Contributing
+
+Contributions to this project are welcome. If you have any suggestions or would like to report any issues, please feel free to submit a pull request or open an issue on the project's repository.
