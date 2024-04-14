@@ -19,7 +19,7 @@ const Currency = () => {
       const result = (response.data.data[toCurrency] * amount).toFixed(2);
       setResult(result);
     } catch (error) {
-      console.log("hata olustu ", error);
+      console.log("error", error);
     }
   };
 
