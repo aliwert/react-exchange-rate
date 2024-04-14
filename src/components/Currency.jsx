@@ -53,6 +53,7 @@ const Currency = () => {
             color: "red",
             marginRight: "10px",
             marginTop: "5px",
+            width: "40px",
           }}
         />
         <select
