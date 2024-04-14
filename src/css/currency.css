@@ -36,4 +36,8 @@
     border: none;
     border-radius: 15px;
     margin-top: 15px;
+    &:hover {
+      cursor: pointer;
+    }
 }
+
