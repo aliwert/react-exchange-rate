@@ -1,3 +1,6 @@
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/zbetcheckin/Security_list)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 # Currency Exchange Rate Application
  This application allows users to quickly convert currencies based on real-time exchange rates. It utilizes the Free Currency API to fetch the latest exchange rates.
 
