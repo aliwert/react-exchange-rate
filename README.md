@@ -12,9 +12,20 @@
 -FontAwesome: Icon library for including the arrow icon.<br>
 -CSS: Styling for the application.<br>
 
-## Getting Started
-1-Clone this repository to your local machine.<br>
-2-Navigate to the project directory.<br>
-3-Install dependencies using npm install.<br>
-4-Start the development server using npm start.<br>
-5-Access the application in your web browser at http://localhost:3000.<br>
+## How to Run
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run `npm install` to install the dependencies.
+4. Run `npm start` to start the development server.
+5. Open your web browser and go to `http://localhost:3000` to view the application.
+
+## For Yarn Users
+
+If you prefer using Yarn package manager, you can follow the steps below to run the project:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run `yarn install` to install the dependencies.
+4. Run `yarn start` to start the development server.
+5. Open your web browser and go to `http://localhost:
