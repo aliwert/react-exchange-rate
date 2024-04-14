@@ -2,6 +2,8 @@ import "../css/currency.css";
 import { useState } from "react";
 import { FaArrowAltCircleRight } from "react-icons/fa";
 import axios from "axios";
+
+
 const Currency = () => {
   const [amount, setAmount] = useState(0);
   const [fromCurrency, setFromCurrency] = useState("USD");
