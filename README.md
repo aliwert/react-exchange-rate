@@ -37,4 +37,4 @@ If you prefer using Yarn package manager, you can follow the steps below to run 
 
 ## Contributing
 
-Contributions to this project are welcome. If you have any suggestions or would like to report any issues, please feel free to submit a pull request or open an issue on the project's repository.
+- Contributions to this project are welcome. If you have any suggestions or would like to report any issues, please feel free to submit a pull request or open an issue on the project's repository.
