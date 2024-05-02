@@ -12,10 +12,10 @@
 - Responsive Design: Works well on various devices and screen sizes.<br>
 
 ## Technologies Used
-- React: JavaScript library for building user interfaces.
-- axios: Promise-based HTTP client for making requests to the API.
-- FontAwesome: Icon library for including the arrow icon.<br>
-- CSS: Styling for the application.
+- React.js
+- axios
+- FontAwesome
+- CSS
 
 ## How to Run
 
