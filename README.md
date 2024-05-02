@@ -18,7 +18,7 @@
 - FontAwesome
 - CSS
 
-## How to Run
+## 👻How to Run
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
@@ -26,7 +26,7 @@
 4. Run `npm start` to start the development server.
 5. Open your web browser and go to `http://localhost:3000` to view the application.
 
-## For Yarn Users
+## 👻For Yarn Users
 
 If you prefer using Yarn package manager, you can follow the steps below to run the project:
 
