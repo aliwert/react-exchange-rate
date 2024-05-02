@@ -13,6 +13,7 @@
 
 ## Technologies Used
 - React.js
+- Tailwind CSS
 - axios
 - FontAwesome
 - CSS
