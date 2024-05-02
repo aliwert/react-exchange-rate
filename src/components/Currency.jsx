@@ -1,8 +1,6 @@
-import "../css/currency.css";
 import { useState } from "react";
-import { FaArrowAltCircleRight } from "react-icons/fa";
+import { FaArrowAltCircleDown } from "react-icons/fa";
 import axios from "axios";
-
 
 const Currency = () => {
   const [amount, setAmount] = useState(0);
@@ -28,7 +26,15 @@ const Currency = () => {
   return (
     <div className="currency-div">
       <div style={{ marginBottom: "30px", fontFamily: "cursive" }}>
-        <h2 style={{ textAlign: "center", backgroundColor: "black", color: "white" }}>Exchange Rate Application</h2>
+        <h2
+          style={{
+            textAlign: "center",
+            backgroundColor: "black",
+            color: "white",
+          }}
+        >
+          Exchange Rate Application
+        </h2>
       </div>
       <div style={{ marginTop: "30px" }}>
         <input
@@ -47,7 +53,7 @@ const Currency = () => {
           <option value="">EUR</option>
           <option value="">TL</option>
         </select>
-        <FaArrowAltCircleRight
+        <FaArrowAltCircleDown
           style={{
             fontSize: "30px",
             color: "red",
