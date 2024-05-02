@@ -11,7 +11,7 @@
 - Simple Interface: Easy-to-use interface for entering amount and selecting currencies.<br>
 - Responsive Design: Works well on various devices and screen sizes.<br>
 
-## Technologies Used
+## 🛠️Technologies Used
 - React.js
 - Tailwind CSS
 - axios
