@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-# Currency Exchange Rate Application
+# Currency Exchange Rate Application💱
  This application allows users to quickly convert currencies based on real-time exchange rates. It utilizes the Free Currency API to fetch the latest exchange rates.
 
 ## 🤖Features
