@@ -4,19 +4,14 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 # Currency Exchange Rate Application💱
- This application allows users to quickly convert currencies based on real-time exchange rates. It utilizes the Free Currency API to fetch the latest exchange rates.
+ - This application allows users to quickly convert currencies based on real-time exchange rates. It utilizes the Free Currency API to fetch the latest exchange rates.
 
 ## 🤖Features
-- Real-time Conversion: Get up-to-date exchange rates and convert currencies instantly.<br>
-- Simple Interface: Easy-to-use interface for entering amount and selecting currencies.<br>
-- Responsive Design: Works well on various devices and screen sizes.<br>
+- Real-time Conversion: Get up-to-date exchange rates and convert currencies instantly.
+- Simple Interface: Easy-to-use interface for entering amount and selecting currencies.
+- Responsive Design: Works well on various devices and screen sizes.
 
-## 🛠️Technologies Used
-- React.js
-- Tailwind CSS
-- axios
-- FontAwesome
-- CSS
+
 
 ## 👻How to Run
 
@@ -35,6 +30,12 @@ If you prefer using Yarn package manager, you can follow the steps below to run 
 3. Run `yarn install` to install the dependencies.
 4. Run `yarn start` to start the development server.
 5. Open your web browser and go to `http://localhost:
+## 🛠️Technologies Used
+- React.js
+- Tailwind CSS
+- axios
+- FontAwesome
+- CSS
 
 ## 👽Contributions
 - Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
